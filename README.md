@@ -1,1 +1,1 @@
-# EC2-Provisioner
+# EC2 Provisioner
